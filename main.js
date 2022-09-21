@@ -14,4 +14,4 @@ function arithmetic(a, b, operator){
     case 'divide':
       return a / b;
   }
-};
+}
